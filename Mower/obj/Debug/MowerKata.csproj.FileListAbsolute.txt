@@ -1,0 +1,6 @@
+C:\Users\wbadinini\source\repos\Mower\Mower\bin\Debug\MowerKata.exe.config
+C:\Users\wbadinini\source\repos\Mower\Mower\bin\Debug\MowerKata.exe
+C:\Users\wbadinini\source\repos\Mower\Mower\bin\Debug\MowerKata.pdb
+C:\Users\wbadinini\source\repos\Mower\Mower\obj\Debug\MowerKata.csproj.CoreCompileInputs.cache
+C:\Users\wbadinini\source\repos\Mower\Mower\obj\Debug\MowerKata.exe
+C:\Users\wbadinini\source\repos\Mower\Mower\obj\Debug\MowerKata.pdb

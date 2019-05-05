@@ -1,0 +1,2 @@
+C:\Users\wbadinini\source\repos\Mower\Mower.Tests\obj\Debug\Mower.Tests.csprojAssemblyReference.cache
+C:\Users\wbadinini\source\repos\Mower\Mower.Tests\obj\Debug\Mower.Tests.csproj.CoreCompileInputs.cache
